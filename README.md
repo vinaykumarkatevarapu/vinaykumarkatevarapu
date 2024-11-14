@@ -28,7 +28,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 GOOGLE CYBERSECURITY CERTIFICATE
 
 ## Projects
-<a href="> play it safe manage security risks</a>
+<a href="https://github.com/vinaykumarkatevarapu/PlayItSafeManageSecurityRisks"> play it safe manage security risks</a>
 
 <a href=">sounds the alarm detection and response</a>
 
