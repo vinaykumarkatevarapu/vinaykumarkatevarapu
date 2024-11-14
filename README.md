@@ -24,7 +24,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Certifications
 
-## Google cybersecurity certificate
+GOOGLE CYBERSECURITY CERTIFICATE
 
 ## Projects
 playit safe manage security risks
