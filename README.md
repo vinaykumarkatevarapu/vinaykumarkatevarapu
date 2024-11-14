@@ -14,13 +14,14 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         |
 |-----------------------------------------------|
-| SIEM Implementation and Log Analysis         |
-| Network Traffic Monitoring and Attack Detection |
-| Security Automation with Shuffle SOAR         |
-| Incident Response Planning and Execution      | 
-| Case Management with TheHive                  |
-| Scripting and Automation for Threat Mitigation | 
-
+| SIEM TOOL       |
+| THREAT , RISK AND VULNERABILITIES |
+| INCIDENT RESPONSE         |
+| SECURITY HARDENING       | 
+| SECURITY FRAMEWORKS AND CONTROLS                 |
+| LINUX COMMAND LINE | 
+| SQL  |
+| PYTHON |
 
 ## Certifications
 
