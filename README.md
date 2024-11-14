@@ -1,4 +1,4 @@
-# Hello, I'm vinaykumarkatevarapu
+# Hello, I'm Vinaykumarkatevarapu
 <a href="https://linkedin.com/in/
 vinay-kumar-katevarapu"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
@@ -28,17 +28,17 @@ My journey in computer science has led me to develop a passion for cybersecurity
 GOOGLE CYBERSECURITY CERTIFICATE
 
 ## Projects
-playit safe manage security risks
+<a href="> play it safe manage security risks</a>
 
-sounds the alarm detection and response
+<a href=">sounds the alarm detection and response</a>
 
-tools of the trade linux and sql
+<a href=">tools of the trade linux and sql</a>
 
-assets threat vulnerabilities
+<a href=">assets threat vulnerabilities</a>
 
-automate cybersecurity tasks with python
+<a href=">automate cybersecurity tasks with python</a>
 
-connect and protect networks and network
+<a href=">connect and protect networks and network</a>
 <!--
 **vinaykumarkatevarapu/vinaykumarkatevarapu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
