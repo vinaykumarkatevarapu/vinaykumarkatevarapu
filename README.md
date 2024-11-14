@@ -30,15 +30,15 @@ GOOGLE CYBERSECURITY CERTIFICATE
 ## Projects
 <a href="https://github.com/vinaykumarkatevarapu/PlayItSafeManageSecurityRisks"> play it safe manage security risks</a>
 
-<a href=">sounds the alarm detection and response</a>
+<a href="https://github.com/vinaykumarkatevarapu/sounds-the-alarm-detection-and-response/tree/main/SoundTheAlarmDetectionAndResponse">sounds the alarm detection and response</a>
 
-<a href=">tools of the trade linux and sql</a>
+<a href="https://github.com/vinaykumarkatevarapu/tools-of-the-trade-linux-and-sql">tools of the trade linux and sql</a>
 
-<a href=">assets threat vulnerabilities</a>
+<a href="https://github.com/vinaykumarkatevarapu/assets-threat-vulnerabilities">assets threat vulnerabilities</a>
 
-<a href=">automate cybersecurity tasks with python</a>
+<a href="https://github.com/vinaykumarkatevarapu/automate-cybersecurity-tasks-with-python">automate cybersecurity tasks with python</a>
 
-<a href=">connect and protect networks and network</a>
+<a href="https://github.com/vinaykumarkatevarapu/connect-and-protect-networks-and-network">connect and protect networks and network</a>
 <!--
 **vinaykumarkatevarapu/vinaykumarkatevarapu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
