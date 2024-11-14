@@ -28,10 +28,15 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 playit safe manage security risks
+
 sounds the alarm detection and response
+
 tools of the trade linux and sql
+
 assets threat vulnerabilities
+
 automate cybersecurity tasks with python
+
 connect and protect networks and network
 <!--
 **vinaykumarkatevarapu/vinaykumarkatevarapu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
